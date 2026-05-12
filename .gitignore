@@ -1,0 +1,23 @@
+﻿# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity crash reports
+crash-report-*
